@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Poppins";
+}
+
+.nv2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #202020;
+    min-height: 8vh;
+    align-items: center;
+    color: white;
+    padding: 0 20px;
+}
+
+.nv2 h2 span {
+    color: #008cff;
+}
+
+.back a{
+    text-decoration: none;
+    color: white;
+    background-color: #008cff;
+    border-radius: 10px;
+    padding: 5px;
+} 
+
+body {
+    background-color: #252525;
+}
+
+/* af */
+
+.af {
+    margin-top: 10px;
+}
+
+.af2 img {
+    width: 100%;
+}
+
+.af2 {
+    color: white;
+    background-color: #202020;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding: 10px 0;
+}
+
+.af2 h2 {
+    padding: 0 10px;
+    font-size: 20px;
+    margin: 10px 5px;
+}
+
+.af2 p {
+    font-size: 12px;
+    color: #c4c4c4;
+    padding: 0 10px;
+}
+
+.af3 p {
+    margin-left: 10px;
+    padding: 0 10px;
+    font-size: 12px;
+    color: #c4c4c4;
+    border-left: 4px solid #008cff;
+}
+
+.baca h2 a {
+    background-color: #008cff;
+    text-decoration: none;
+    color: #fff;
+    padding: 0 10px;
+    font-size: 15px;
+}
+
+.chp {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 50px;
+    margin-top: 20px;
+}
+
+.chp p {
+    font-size: 8px;
+}
+/* af */
+
+/* type */
+
+.ta {
+    background-color: #202020;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    padding: 30px 0;
+}
+
+.ta3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ta3 p {
+    background-color: #363636;
+    margin-left: 20px;
+    color: white;
+    font-size: 10px;
+    width: 40%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.ta3 h4 {
+    background-color: #252525;
+    color: #008cff;
+    width: 40%;
+    padding: 10px;
+    font-size: 10px;
+    margin-top: 10px;
+}
+/* type */
+
+/* chapter  */
+
+.ch {
+    margin-top: 20px;
+}
+
+.ch2 h2{
+    font-size: 18px;
+    color: white;
+    background-color: #202020;
+    padding: 10px;
+}
+
+.ch2 h2 span {
+    color: #008cff;
+}
+
+/* chapter  */
+
+/* 117 */
+
+.ch117 {
+    margin-top: 20px;
+}
+
+.ch117 img {
+    height: 550px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.ch118 {
+    margin-top: 20px;
+}
+
+.ch118 img {
+    height: 550px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+/* 117 */
